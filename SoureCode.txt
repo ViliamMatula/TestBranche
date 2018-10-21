@@ -1,3 +1,4 @@
 Prvy riadok
 pridaný riadok v rámci branche Master
+pridaný riadok v rámci branche NovaFixBranch
 Posledny riadok
