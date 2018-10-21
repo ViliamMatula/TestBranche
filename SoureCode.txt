@@ -1,2 +1,3 @@
 Prvy riadok
+pridaný riadok v rámci branche NovaFixBranch
 Posledny riadok
